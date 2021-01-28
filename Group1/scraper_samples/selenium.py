@@ -49,3 +49,5 @@ for i in range(2500):
             if new_height == last_height:
                 break
             last_height = new_height
+
+# If success, all the data will be saved in "all_urls"
